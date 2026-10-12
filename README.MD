@@ -1,19 +1,41 @@
-Your README file is *NOT present* right now - that's why you are seeing that screen.
+# 📊 Excel Sales Dashboard - Vrinda Store
 
-In your photo, GitHub itself is saying:
+Interactive Sales Performance Dashboard built in Microsoft Excel to analyze annual sales data of Vrinda Store.
 
-> `Add a README file and start coding...`
-> `We recommend every repository include a README, LICENSE, and .gitignore.`
+### 📌 Project Overview
+This dashboard tracks key business metrics and provides actionable insights on revenue, profitability, and country-wise performance.
 
-This is an *empty repository*. You created the repo `Excel-Sales-Dashboard-Project-` but you haven't uploaded any file yet.
+**Dataset:** Vrinda Store Annual Sales - Order Date, Country, Product Category, Revenue, COGS, Channel, Units Sold.
 
-*How to add README in 10 seconds:*
+### 📈 Key KPIs
+- **Total Revenue:** ₹6.45L
+- **Total Gross Profit:** ₹2.96L
+- **Gross Profit Margin:** 45.94%
+- **Total Units Sold:** 6,698
+- **Total Orders:** 2,707
 
-1. On that same page, scroll a little up - Click on `creating a new file` (blue link in your photo at bottom)
-2. File name box: Type `README.md`
-3. Now paste the description I gave you for the project
-4. Scroll down > Click green button `Commit changes`
+### 📊 Dashboard Features
+1. **Revenue & Profit Trend:** Line chart - Peak in June-July & Nov
+2. **Top 5 Countries:** Bar Chart - United Kingdom (₹74K) & Germany lead
+3. **Sales Channel Share:** Pie Chart - Corporate vs Online Store
+4. **Geographical Analysis:** Map Chart & Donut Chart by Region
+5. **Interactivity:** Slicers for Country, Category, Quarter
 
-Done. After that your dashboard screenshot and Excel file will show below the README.
+### 🛠️ Tools Used
+- Advanced Excel
+- Power Pivot & Data Model
+- DAX Measures
+- PivotTables, Slicers, Custom Formatting (K format)
 
-Want me to write a full http://README.md file with your dashboard image, KPIs and tools for you to directly upload?
+### 💡 Key Insights
+- UK is highest revenue country.
+- Nov & June are peak months.
+- Corporate channel contributes major share.
+
+### 📂 How to Use
+1. Download `Vrinda Store Dashboard.xlsx`
+2. Enable Data Model
+3. Use slicers to filter
+
+---
+**Author:** tiwari9669
